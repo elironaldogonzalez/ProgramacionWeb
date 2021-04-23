@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "RedSocialWeb",
+			"path": "..\\..\\..\\Visual Studio Code\\laredsocial\\RedSocialWeb"
+		},
+		{
+			"name": "Visual Studio Code",
+			"path": "..\\..\\..\\Visual Studio Code"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
